@@ -1,3 +1,7 @@
+# Email Ego Network Tool
+This is a project focused on developing an open-source email ego network analysis/visualization tool that can be used with exported email metadata to better understand one's social network inherently present in their email metadata. 
+
+
 # Data science project structure
 This is my template for initiating a data science project. 
 The project structure consists of the following: 
